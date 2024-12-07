@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(90, 19, 90);
+}
+div{
+    background-color: rgb(90, 19, 90);
+    margin: 0 10px 50px 10px
+}
+
+body{
+    background-color: #1a143e;
+}
+
+header img{
+    margin: 50px;
+    text-decoration: ;
+}
+
+.last{
+    padding: 10px;
+    background-color: darkcyan;
+    margin: 20px;
+}
+
+
+
+li{
+    margin-top: 10px;
+    color: white;
+}
+
+.css{
+    background-color: rgb(4, 52, 80);
+    color: white;
+    font-size: 25px;
+}
+
+.htm{
+    background-color: rgb(34, 88, 23);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    
+}
+
+ p{
+    font-size: 25px;
+     color: rgb(178, 96, 255);
+}
+
+.big{
+    font-size: 30px;
+}
